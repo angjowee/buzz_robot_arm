@@ -1,0 +1,38 @@
+default_velocity_scaling_factor: 0.1
+default_acceleration_scaling_factor: 0.1
+joint_limits:
+  Mimic_LFinger:
+    has_velocity_limits: true
+    max_velocity: 4.5
+    has_acceleration_limits: true
+    max_acceleration: 10.0
+  Revolute_1:
+    has_velocity_limits: true
+    max_velocity: 4.5
+    has_acceleration_limits: true
+    max_acceleration: 10.0
+  Revolute_2:
+    has_velocity_limits: true
+    max_velocity: 4.5
+    has_acceleration_limits: true
+    max_acceleration: 10.0
+  Revolute_3:
+    has_velocity_limits: true
+    max_velocity: 4.5
+    has_acceleration_limits: true
+    max_acceleration: 10.0
+  Revolute_4:
+    has_velocity_limits: true
+    max_velocity: 4.5
+    has_acceleration_limits: true
+    max_acceleration: 10.0
+  Revolute_5:
+    has_velocity_limits: true
+    max_velocity: 4.5
+    has_acceleration_limits: true
+    max_acceleration: 10.0
+  Revolute_RFinger:
+    has_velocity_limits: true
+    max_velocity: 4.5
+    has_acceleration_limits: true
+    max_acceleration: 10.0
